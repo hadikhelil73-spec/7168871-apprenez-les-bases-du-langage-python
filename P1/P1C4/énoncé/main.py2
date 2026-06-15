@@ -1,0 +1,3 @@
+nom = Hadi 
+age = 16 
+(f"Je m'appelle {nom} et j'ai {age} ans.)
